@@ -1,0 +1,13 @@
+Numbering Guess game 
+Phase 1:Done
+1. Variable Decide 
+2. Assign The Screat Number 
+3. Show the results.
+
+Phase 2:Done
+1. Craete Continus Loop
+2. Add attempts
+
+Phase 3:
+1. Asking if player need play one more time 
+2. implement shafule method using librery  

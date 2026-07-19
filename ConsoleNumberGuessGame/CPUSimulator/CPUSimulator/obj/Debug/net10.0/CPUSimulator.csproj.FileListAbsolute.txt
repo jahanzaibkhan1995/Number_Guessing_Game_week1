@@ -1,0 +1,28 @@
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\bin\Debug\net10.0\CPUSimulator.exe
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\bin\Debug\net10.0\CPUSimulator.deps.json
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\bin\Debug\net10.0\CPUSimulator.runtimeconfig.json
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\bin\Debug\net10.0\CPUSimulator.dll
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\bin\Debug\net10.0\CPUSimulator.pdb
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.AssemblyInfoInputs.cache
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.AssemblyInfo.cs
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.csproj.CoreCompileInputs.cache
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.dll
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\obj\Debug\net10.0\refint\CPUSimulator.dll
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.pdb
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.genruntimeconfig.cache
+D:\Technical_Stuff\Programming\C sharp\shopmarchentv3\CPUSimulator\CPUSimulator\obj\Debug\net10.0\ref\CPUSimulator.dll
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\bin\Debug\net10.0\CPUSimulator.exe
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\bin\Debug\net10.0\CPUSimulator.deps.json
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\bin\Debug\net10.0\CPUSimulator.runtimeconfig.json
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\bin\Debug\net10.0\CPUSimulator.dll
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\bin\Debug\net10.0\CPUSimulator.pdb
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.AssemblyInfoInputs.cache
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.AssemblyInfo.cs
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.csproj.CoreCompileInputs.cache
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.dll
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\obj\Debug\net10.0\refint\CPUSimulator.dll
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.pdb
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\obj\Debug\net10.0\CPUSimulator.genruntimeconfig.cache
+E:\Software Development Learning\Week 1\ConsoleNumberGuessGame\CPUSimulator\CPUSimulator\obj\Debug\net10.0\ref\CPUSimulator.dll
